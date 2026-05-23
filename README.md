@@ -1,10 +1,6 @@
-Hi 👋 My name is nazim djebloun
-===============================
-
 Full stack software developper
 ------------------------------
 
-I'm a full-stack developer passionate about crafting intuitive and visually engaging digital experiences.
 * 🖥️  See my portfolio at [nazim djebloun](http://nazimdjebloun.com)
 * ✉️  You can contact me at [djeblounnazim2@gmail.com](mailto:djeblounnazim2@gmail.com)
 
